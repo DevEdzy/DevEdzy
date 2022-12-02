@@ -1,0 +1,10 @@
+Open SoftwareProject.py file with PyCharm or any other python IDE
+Run the program and menu will pop up
+Select 1 to submit a new helpdesk ticket
+Follow the prompts to submit your ticket
+Once submitted press Y to submit another ticket or N to go back to the menu list
+If press Y, repeat steps 4 & 5
+If press N return to the menu and input corresponding option for function you require
+2 will show you all created tickets
+3 will prompt you to enter a valid ticket number to reopen and/or respond to a ticket
+4 will display ticket statistics
